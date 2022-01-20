@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myfinance</string>
+    <string name="header_name">Такие, значит дела</string>
+    <string name="regular">Ежемесячно</string>
+    <string name="enterSum">Введите сумму</string>
+    <string name="enterName">Название операции</string>
+    <string name="submit">Зафиксировать</string>
+    <string name="balance">Баланс</string>
+    <string name="negativeMoney">Расход</string>
+
+</resources>
